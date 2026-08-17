@@ -9,361 +9,485 @@
   <img src="./banner.png" alt="Keerthi Priya AI/ML GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Keerthi Priya</h1>
+<div align="center">
 
-<h3 align="center">
-  CSE (AI/ML) Student • AI/ML Enthusiast • Full Stack Developer • Data Analytics Enthusiast
-</h3>
 
-<p align="center">
-  <em>
-    Building intelligent applications, solving real-world problems,
-    and continuously learning emerging technologies.
-  </em>
-</p>
+# 👋 Hi, I'm Keerthi Priya
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/keerthipriya0711/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Skeerthipriya-AIML">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
 
----
+### 🤖 AI/ML Engineer in Progress • Generative AI Builder • Full Stack Developer
 
-# 👩‍💻 About Me
 
-I'm a **Computer Science student specializing in Artificial Intelligence & Machine Learning**, passionate about turning ideas into practical software and intelligent solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=180&section=header&text=Building%20AI%20that%20Matters&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-I enjoy working across the complete development lifecycle — from **AI/ML experimentation and data analysis to backend APIs, databases, frontend development, and deployment**.
 
-* 🎓 B.Tech in **Computer Science & AI/ML**
-* 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
-* 🧠 Exploring **LLMs, RAG and AI-powered applications**
-* 💻 Building applications with **React, Node.js, TypeScript & Python**
-* 📊 Interested in **Data Analytics, SQL & Business Intelligence**
-* ☁️ Exploring **AWS, Azure & cloud technologies**
-* 🏆 Hackathon Winner & National-Level Hackathon Finalist
-* 💡 Strong foundation in **DSA, DBMS, OOP & System Design**
+<br/>
+
+
+**AI • Machine Learning • Generative AI • LLMs • RAG • Backend • Cloud**
+
+
+<br/>
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skeerthipriya-AIML)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthipriya0711/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Keerthi032005)
+
+
+</div>
+
 
 ---
 
-# 🚀 What I Build
+
+# 🧠 Who Am I?
+
+
+I'm **Keerthi Priya**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning**, with a growing focus on **Generative AI, LLM applications, backend engineering and scalable systems**.
+
+
+I love taking an idea from:
+
 
 ```text
-              ┌─────────────────────────┐
-              │     Artificial          │
-              │   Intelligence / ML     │
-              └────────────┬────────────┘
-                           │
-              ┌────────────▼────────────┐
-              │   Generative AI / LLMs  │
-              │       RAG / AI Apps     │
-              └────────────┬────────────┘
-                           │
-         ┌─────────────────┼─────────────────┐
-         ▼                 ▼                 ▼
-   Full Stack          Data & BI          Cloud
-   Development         Analytics        Deployment
-         │                 │                 │
-         └─────────────────┼─────────────────┘
-                           ▼
-                🌍 Real-World Solutions
-```
+💡 Idea
+   ↓
+🧠 AI / ML Experiment
+   ↓
+⚙️ Backend & APIs
+   ↓
+🖥️ Full Stack Application
+   ↓
+☁️ Cloud / Deployment
+   ↓
+🌍 Real-World Impact
 
----
+My goal is simple:
 
-# 🔥 Featured Projects
+Don't just learn AI. Build with it.
 
-## 🤖 AI Career Assistant — Generative AI Platform
+🌌 My AI Journey
+2023 → 📊 Data
 
-> A full-stack Generative AI platform for AI-powered career assistance, resume intelligence and personalized coaching.
+My journey started with data analysis, reporting and analytical problem-solving.
 
-### ✨ Key Features
+I learned how valuable clean, structured data is for making better decisions.
 
-* 🤖 AI-powered chat and career coaching
-* 📄 AI resume analysis
-* 🎯 ATS resume scoring
-* 🧠 RAG-based AI functionality
-* 📚 Document intelligence
-* ⚙️ Task automation
-* 🔐 JWT authentication
-* 🗄️ MongoDB database integration
-* 🐳 Docker-based containerization
+First lesson:
 
-### 🛠️ Tech Stack
+Data tells a story — if you know how to listen.
 
-`React.js` `TypeScript` `FastAPI` `Python` `MongoDB` `REST APIs` `RAG` `JWT` `Docker`
+2024 → 💻 Engineering Foundations
 
----
+I moved deeper into Computer Science and started strengthening my foundations in:
 
-## 🌱 AgroSense AI — Smart Farming Dashboard
+🧩 Data Structures & Algorithms
+🧠 Object-Oriented Programming
+🗄️ DBMS
+🌐 Computer Networks
+⚙️ Operating Systems
+🏗️ System Design
+🐍 Python
+☕ Java
+🗃️ SQL
 
-> An AI-powered smart farming platform designed to help monitor agricultural conditions and support data-driven farming decisions.
+This was the year I started thinking beyond:
 
-### ✨ Key Features
+"How do I make this work?"
 
-* 🌾 Real-time field monitoring
-* 🌦️ Weather forecasting
-* 🧠 AI-based crop disease detection
-* 🌱 Disease detection for **20+ crops**
-* 📊 Smart farming dashboard
+and toward:
 
-### 🛠️ Tech Stack
+"How do I build this properly?"
 
-`React.js` `Node.js` `Python` `Machine Learning` `MongoDB` `Flask`
+2025 → 🤖 AI Became Real
 
----
+2025 was the year AI stopped being something I only studied...
 
-## 🧑‍🏫 SparkMinds — AI Learning Management System
+and became something I built.
 
-> An AI-powered LMS designed to create a smarter and more personalized learning experience.
+🏆 Synapse 2K25 — Hackathon Winner
 
-### ✨ Key Features
+With Team SparkMinds, I built an AI-powered Learning Management System.
 
-* 👨‍🏫 Student & teacher role-based dashboards
-* 📊 Performance tracking
-* 🤖 Google Gemini AI chatbot
-* 🧭 AI-powered Skill Path Generator
-* 📝 Assignment and learning workflows
+We integrated:
 
-### 🛠️ Tech Stack
+🤖 Google Gemini
+🧠 AI chatbot
+🧭 AI Skill Path Generator
+📊 Performance tracking
+👨‍🎓 Student dashboards
+👩‍🏫 Teacher dashboards
 
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Gemini API` `Git/GitHub`
+And turned an idea into a working product during a 24-hour national-level hackathon.
 
-🏆 **Hackathon Winner — Synapse 2K25**
+That's when I realized: pressure + teamwork + curiosity = incredible learning.
 
----
+🌱 AgroSense AI
+AI × Agriculture
 
-# 💼 Experience
+Agriculture was one of the first places where I saw how AI could connect directly with real-world problems.
 
-### 💻 Full Stack Developer Intern
+I worked on AgroSense AI, a smart farming platform featuring:
 
-**AatonovaZ Technologies Private Limited**
+🌾 Real-time field monitoring
+🌦️ Weather forecasting
+💧 Irrigation management
+📈 Market price forecasting
+🧪 Soil analysis
+🦠 Crop disease detection
 
-`03/2026 – 09/2026`
+The system included disease detection for 20+ crops.
 
-* Developed and enhanced **MeetFlow**, a full-stack project management application.
-* Built application features using **React.js, TypeScript, Node.js, Express.js and MongoDB**.
-* Developed and integrated REST APIs across frontend, backend and database layers.
-* Translated application requirements into technical features and workflows.
-* Troubleshot application issues and implemented fixes to improve reliability.
-* Collaborated on development, testing, debugging and Git/GitHub workflows.
+The bigger idea:
+AI
+ +
+Agriculture
+ +
+Data
+ ↓
+Smarter Farming 🌱
 
----
+The project reached the finals of Beyond Hack, a national-level hackathon hosted by SRMIST.
 
-### 📊 Data Analyst Intern
+🧑‍🏫 SparkMinds
+AI-Powered Learning Management System
+
+SparkMinds combines:
+
+Students
+    +
+Teachers
+    +
+AI
+    ↓
+Personalized Learning
+Built with
+
+React.js Node.js Express.js MongoDB
+
+Google Gemini API Tailwind CSS REST APIs
 
-**Wipro Infrastructure Engineering Private Limited**
+AI Features
 
-`07/2023 – 11/2023`
+🤖 Intelligent chatbot
+🧭 AI Skill Path Generator
+📝 Assignments
+📚 Quizzes
+📊 Performance tracking
+👥 Role-based dashboards
 
-* Analyzed business data using **Microsoft Excel**.
-* Created structured PowerPoint reports supporting organizational decision-making.
-* Developed experience in analytical problem-solving, business communication and reporting.
-* Communicated insights in a structured and stakeholder-focused manner.
+🏆 Hackathon Winner — Synapse 2K25
 
----
+🤖 AI Career Assistant
+My Next Step Into Generative AI
 
-# 🛠️ Tech Stack
+I wanted to explore what happens when AI becomes a personal career companion.
 
-### 👨‍💻 Programming Languages
+So I built an AI Career Assistant using:
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
-</p>
+React.js
+   +
+TypeScript
+   +
+FastAPI / Python
+   +
+MongoDB
+   +
+ChromaDB
+   +
+RAG
+   +
+LLMs
+🚀 What it can do
 
-`Python` `Core Java` `SQL` `JavaScript` `TypeScript` `HTML` `CSS`
+📄 Resume analysis
+🎯 ATS resume scoring
+💬 AI career chat
+🎤 Interview coaching
+📚 Document intelligence
+📝 Document summarization
+🧠 Quiz generation
+⚙️ AI task automation
 
----
+The project helped me move from simply consuming AI APIs to thinking about:
 
-### 🤖 AI / Machine Learning
+How should an AI-powered system actually be designed?
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
+🧪 My AI/ML Playground
 
-`Machine Learning` `Deep Learning` `LLMs` `Generative AI` `RAG` `Pandas` `NumPy`
+My current interests revolve around:
 
----
+                 🧠 AI
+                  │
+        ┌─────────┼─────────┐
+        │         │         │
+       ML       LLMs      GenAI
+        │         │         │
+        │        RAG        │
+        │         │         │
+        └─────────┼─────────┘
+                  │
+             AI Agents
+                  │
+                  ▼
+          Real Applications
+🔬 Exploring
+Machine Learning
+Deep Learning
+Large Language Models
+Generative AI
+Retrieval-Augmented Generation
+AI Agents
+NLP
+Document Intelligence
+AI-powered automation
+☁️ Cloud Journey
 
-### 🌐 Full Stack Development
+My AI journey is also becoming a cloud journey.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,tailwind" />
-</p>
+Certifications
 
-`React.js` `Node.js` `Express.js` `FastAPI` `Flask` `REST APIs` `API Integration`
+🏅 AWS Certified Cloud Practitioner — CLF-C02
 
----
+🤖 AWS Certified Machine Learning Engineer – Associate — MLA-C01
 
-### 🗄️ Databases
+Cloud platforms I'm exploring
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+AWS Microsoft Azure ServiceNow
 
-`MongoDB` `MySQL` `RDBMS` `NoSQL`
+My current mindset:
 
----
+A model isn't the finish line. Production is.
 
-### ☁️ Cloud & Tools
+💻 Engineering Stack
+🐍 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode" />
-</p>
+Python Java SQL JavaScript TypeScript
 
-`AWS` `Azure` `Docker` `Git` `GitHub` `Postman` `Jupyter Notebook` `Google Colab` `ServiceNow`
+HTML CSS C Basics
 
----
+🤖 AI / ML
 
-# 🏆 Certifications & Achievements
+Machine Learning
 
-### ☁️ Certifications
+Deep Learning
 
-* 🏅 **AWS Certified Cloud Practitioner — 2026**
-* 🤖 **AWS Certified Machine Learning Engineer – Associate — 2026**
-* 🧠 **IBM Supervised Machine Learning Certification**
-* ⚙️ **ServiceNow Virtual Internship Program — 2026**
+LLMs
 
----
+Generative AI
 
-### 🥇 Hackathons
+TensorFlow
 
-🏆 **Hackathon Winner — Synapse 2K25**
+NumPy
 
-Built **SparkMinds — AI Learning Management System**
+Pandas
 
-🏅 **Top Finalist — Beyond Hack**
+⚙️ Backend
 
-National-level hackathon hosted by **SRMIST**
+Python FastAPI Flask
 
----
+Node.js Express.js
 
-### 🎯 Academic Achievement
+REST APIs
 
-**ECET Rank — 3647**
+🖥️ Frontend
 
-Secured **AIR 3647 among approximately 600,000 candidates**.
+React.js
 
----
+Tailwind CSS
 
-### 💻 Problem Solving
+🗄️ Databases
 
-* 🧩 **100+ HackerRank problems solved**
-* 💡 Practicing Data Structures & Algorithms
-* 🧠 Strong foundation in DBMS, OOP and problem solving
+MongoDB
 
----
+MySQL
 
-# 📈 GitHub Statistics
+🛠️ Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skeerthipriya-AIML&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skeerthipriya-AIML&layout=compact&hide_border=true" height="170"/>
-</p>
+Git GitHub Docker
 
----
+Jupyter Notebook
 
-# 🔥 GitHub Streak
+Google Colab
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Skeerthipriya-AIML&hide_border=true" />
-</p>
+☁️ Cloud
 
----
+AWS Azure ServiceNow
 
-# 📊 My Development Journey
+🏗️ What I'm Building Toward
 
-```text
-2023
- │
- ├── Data Analysis
- │
- ▼
-2024
- │
- ├── Computer Science & AI/ML
- ├── Programming
- └── Full Stack Foundations
- │
- ▼
-2025
- │
- ├── AI Applications
- ├── Hackathons
- ├── SparkMinds
- └── Machine Learning
- │
- ▼
-2026
- │
- ├── Generative AI
- ├── RAG & LLM Applications
- ├── AI Career Assistant
- ├── Cloud & DevOps
- └── Full Stack Engineering
- │
- ▼
-🚀 Next → Production-Ready AI Systems
-```
+I'm especially interested in building systems that combine:
 
----
+        ┌───────────────────────┐
+        │    Artificial         │
+        │   Intelligence 🤖     │
+        └───────────┬───────────┘
+                    │
+        ┌───────────▼───────────┐
+        │    Generative AI      │
+        │       + LLMs          │
+        └───────────┬───────────┘
+                    │
+        ┌───────────▼───────────┐
+        │      RAG / Agents     │
+        └───────────┬───────────┘
+                    │
+        ┌───────────▼───────────┐
+        │   Backend / APIs      │
+        └───────────┬───────────┘
+                    │
+        ┌───────────▼───────────┐
+        │       Cloud ☁️        │
+        └───────────┬───────────┘
+                    │
+                    ▼
+             🌍 Real Impact
+🏆 Milestones
+Year	Milestone
+🎓 2024	Started deeper CS + AI/ML journey
+🌱 2025	Built AgroSense AI
+🏆 2025	Won Synapse 2K25 Hackathon
+🚀 2025	SparkMinds AI LMS
+🥇 2025	Beyond Hack National-Level Finalist
+🤖 2026	Expanded into Generative AI & RAG
+☁️ 2026	AWS Cloud Practitioner
+🧠 2026	AWS ML Engineer – Associate
+💻 2026	Full Stack Developer Internship
+🔬 Now	Building AI-powered systems
+📊 A Few Numbers
+<div align="center">
+🏆 1× Hackathon Winner
+🥇 National-Level Finalist
+🌱 20+ Crop Diseases Detected
+💻 100+ HackerRank Problems
+🎓 9.2 / 10 GPA
+☁️ 2 AWS Certifications
+</div>
+🧩 Beyond the Code
 
-# 📚 Currently Learning
+The biggest thing I've learned so far:
 
-<table>
-<tr>
-<td align="center">🤖<br><b>Generative AI</b></td>
-<td align="center">🧠<br><b>Machine Learning</b></td>
-<td align="center">🔗<br><b>RAG & LLMs</b></td>
-<td align="center">💻<br><b>Full Stack</b></td>
-</tr>
-<tr>
-<td align="center">📊<br><b>Data Analytics</b></td>
-<td align="center">☁️<br><b>Cloud</b></td>
-<td align="center">⚙️<br><b>APIs</b></td>
-<td align="center">🧩<br><b>DSA</b></td>
-</tr>
-</table>
+The best projects aren't the ones with the most technologies.
+They're the ones that solve a problem people actually care about.
 
----
+That's why my projects keep coming back to:
 
-# 🎯 2026 Mission
+🌱 Farmers
+🎓 Students
+💼 Careers
+📊 Data
+🤖 AI
 
-> **Build intelligent systems that solve real problems — from idea to production.**
+Technology is the tool.
 
-```text
-Learn → Experiment → Build → Deploy → Improve → Repeat
-```
+Impact is the goal.
 
----
+🔮 2026 Vision
+Always be deploying. 🚀
 
-# 🌐 Let's Connect
+Not just code.
 
-<p align="center">
+Not just models.
 
-<a href="https://www.linkedin.com/in/keerthipriya0711/">
-<img src="https://img.shields.io/badge/LinkedIn-Keerthi%20Priya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Not just projects.
 
-<a href="https://github.com/Skeerthipriya-AIML">
-<img src="https://img.shields.io/badge/GitHub-Skeerthipriya--AIML-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+But better versions of myself.
 
-</p>
+My 2026 loop:
+          📚 Learn
+             ↓
+          🧪 Experiment
+             ↓
+          💻 Build
+             ↓
+          🤖 Integrate AI
+             ↓
+          ☁️ Deploy
+             ↓
+          📊 Measure
+             ↓
+          🔧 Improve
+             ↓
+          🚀 Repeat
+🎯 Current Focus
+🧠 Generative AI
+🔗 RAG Systems
+🤖 LLM Applications
+⚙️ AI Agents
+🐍 Python Backend
+🚀 FastAPI
+☁️ AWS
+🗄️ Databases
+🧩 System Design
+📚 DSA
+❤️ A Note to Future Me
 
----
+Dear Future Keerthi,
 
-<p align="center">
+Remember when you were still figuring everything out?
 
-### 💜 Code. Learn. Build. Repeat. Grow. Impact.
+Remember the first hackathon?
 
-⭐ **Thanks for visiting my profile!**
+The late-night debugging?
 
-</p>
+The broken APIs?
+
+The model that didn't work?
+
+The deployment that failed?
+
+The countless times you searched:
+
+"why is this not working?" 😅
+
+Keep going.
+
+Because every error message is another lesson.
+
+Every project is another experiment.
+
+Every failure is another version of you.
+
+And every deployment is proof that you didn't stop.
+
+🌍 From Learning AI → Building With AI
+
+I'm still learning.
+
+Still experimenting.
+
+Still breaking things.
+
+Still rebuilding them.
+
+But now I'm no longer asking:
+
+"What can AI do?"
+
+I'm asking:
+
+"What can I build with AI that actually helps someone?"
+
+🤝 Let's Build
+
+If you're interested in:
+
+🤖 AI / ML
+🧠 Generative AI
+🔗 RAG
+☁️ Cloud
+💻 Full Stack Development
+🌱 AI for real-world problems
+
+I'd love to connect.
+
+<div align="center">
+🚀 Learn. Build. Deploy. Impact.
+
+Thanks for visiting my Hugging Face space! 🤗
+
+⭐ If something here inspires you, let's build something meaningful together.
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer"/> </div> ```
