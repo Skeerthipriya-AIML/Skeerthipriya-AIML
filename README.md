@@ -6,7 +6,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Keerthi Priya AI/ML GitHub Banner" width="100%">
+  <img src="./banner.png" alt="Keerthi Priya AI/ML GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Keerthi Priya</h1>
